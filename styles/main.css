@@ -1105,7 +1105,7 @@ body.ar .button--primary {
 }
 
 body.ar footer {
-  background-color: #548C78;
+  background: rgba(99, 202, 164, 0.7);
 }
 
 .reverse .header {
