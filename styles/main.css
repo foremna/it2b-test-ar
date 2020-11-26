@@ -1066,7 +1066,7 @@ body.ar .show-portfolio:after {
 }
 
 body.ar .important {
-  background-color: #548C78;
+  background: rgba(84, 140, 120, 0.7);
 }
 
 body.ar .services__item:before {
